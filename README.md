@@ -67,9 +67,9 @@ After it's give's you a otp go on WhatsApp Linked Devices.
 
 ✨ 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
-✔ Multi-Device Support
-✔ TikTok Downloader
-✔ Instagram Downloader
+✔ Multi-Device Support <br>
+✔ TikTok Downloader <br>
+✔ Instagram Downloader <br>
 ✔ YouTube Song Download
 ✔ YouTube Video Download
 ✔ Logo Maker Commands
