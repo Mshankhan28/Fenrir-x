@@ -1,0 +1,99 @@
+<div align="center"><img src="https://i.postimg.cc/fR4Y7LvP/copilot-image-1771060687991.png" width="100%">🐺 𝐅𝐄𝐍𝐑𝐈𝐑-𝐗 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭
+
+⚡ Powerful WhatsApp Multi-Device Bot Using Baileys
+
+<br>👤 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐈𝐍𝐅𝐎
+
+Name: "Tayyab"
+User-Name: "Fenrir-X"
+
+<br><a href="https://www.youtube.com/@fenrir.x.official">
+<img src="https://img.shields.io/badge/YOUTUBE-CHANNEL-red?style=for-the-badge&logo=youtube">
+</a><br><br>
+
+<a href="https://youtu.be/4uP3K6myD-c?si=Tiw3omCKwaHZmLRR">
+<img src="https://img.shields.io/badge/🚀 DEPLOY%20BOT%20VIDEO-WATCH%20NOW-blue?style=for-the-badge">
+</a></div>---
+
+⚙️ 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍
+
+Follow these commands step by step to run the bot.
+
+---
+
+📦 1. Install Packages
+
+pkg update && pkg upgrade
+
+---
+
+🟢 2. Install NodeJS
+
+pkg install nodejs
+
+---
+
+📂 3. Clone Repository
+
+pkg install git
+
+git clone https://github.com/yourusername/fenrir-x-bot
+
+---
+
+📁 4. Open Bot Folder
+
+cd fenrir-x-bot
+
+---
+
+📥 5. Install Dependencies
+
+npm install
+
+---
+
+▶️ 6. Start The Bot
+
+npm start
+
+After running the bot a QR code will appear.
+Scan it with WhatsApp Linked Devices.
+
+---
+
+✨ 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
+
+✔ Multi-Device Support
+✔ TikTok Downloader
+✔ Instagram Downloader
+✔ YouTube Song Download
+✔ YouTube Video Download
+✔ Logo Maker Commands
+✔ Fast & Stable System
+
+---
+
+🧠 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
+
+- NodeJS
+- Baileys WhatsApp API
+- Axios
+- Cheerio
+- YT-Search
+
+---
+
+📜 𝐋𝐈𝐂𝐄𝐍𝐒𝐄
+
+This project is licensed under the MIT License.
+
+You are free to modify and use this project but credit must remain.
+
+---
+
+<div align="center">🐺 𝐅𝐄𝐍𝐑𝐈𝐑-𝐗 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+
+Developed with ❤️ by Tayyab (Fenrir-X)
+
+</div>
