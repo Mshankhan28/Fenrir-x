@@ -47,7 +47,7 @@ git clone https://github.com/FENRIR-X/Fenrir-x
 
 📁 4. Open Bot Folder
 ```
-cd fenrir-x-bot
+cd Fenrir-x
 ```
 ---
 
