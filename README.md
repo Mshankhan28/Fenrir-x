@@ -14,7 +14,8 @@
 
 <a href="https://youtu.be/4uP3K6myD-c?si=Tiw3omCKwaHZmLRR">
 <img src="https://img.shields.io/badge/🚀 DEPLOY%20BOT%20VIDEO-WATCH%20NOW-blue?style=for-the-badge">
-</a></div>---
+</a></div>
+---
 
 ⚙️ 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍
 
