@@ -4,7 +4,7 @@
 
 <br>👤 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐈𝐍𝐅𝐎
 
-**Name:** *"Tayyab"*
+**Name:** *"Tayyab"* <br>
 **User-Name:** *"Fenrir-X"*
 ---
 
@@ -70,14 +70,14 @@ After it's give's you a otp go on WhatsApp Linked Devices.
 ✔ Multi-Device Support <br>
 ✔ TikTok Downloader <br>
 ✔ Instagram Downloader <br>
-✔ YouTube Song Download
-✔ YouTube Video Download
-✔ Logo Maker Commands
-✔ Fast & Stable System
-✔ Bug commands
-✔ Anti-Bug
-✔ Make your Whatsapp fully automatic 
-✔ Easy to deploy
+✔ YouTube Song Download <br>
+✔ YouTube Video Download <br>
+✔ Logo Maker Commands <br> 
+✔ Fast & Stable System <br>
+✔ Bug commands <br> 
+✔ Anti-Bug <br>
+✔ Make your Whatsapp fully automatic <br>
+✔ Easy to deploy <br>
 
 ---
 
