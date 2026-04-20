@@ -1,5 +1,4 @@
-<div align="center">
-<img src="[![1776241879426.png](https://i.postimg.cc/bwQNhr9c/1776241879426.png)](https://postimg.cc/0zyqG84c)" width="100%" />🐺 𝐅𝐄𝐍𝐑𝐈𝐑-𝐗 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭
+<div alig<img src="https://i.postimg.cc/bwQNhr9c/1776241879426.png" width"100%" />🐺 𝐅𝐄𝐍𝐑𝐈𝐑-𝐗 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭
 
 ⚡ Powerful WhatsApp Multi-Device Bot Using Baileys
 
