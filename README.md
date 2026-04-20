@@ -40,13 +40,13 @@ pkg install nodejs
 
 📂 3. Clone Repository
 ```
-git clone https://github.com/FENRIR-X/Fenrir-x
+git clone https://github.com/shan-sk/shan-sk
 ```
 ---
 
 📁 4. Open Bot Folder
 ```
-cd Fenrir-x
+cd shan-sk
 ```
 ---
 
@@ -99,7 +99,7 @@ You are free to modify and use this project but credit must remain.
 
 ---
 
-<div align="center">🐺 shan.ali-𝐗 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+<div align="center">🐺 shan.ali-sk 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
 
 Developed with ❤️ by Tayyab (shanali-X)
 
