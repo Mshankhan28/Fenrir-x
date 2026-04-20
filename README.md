@@ -1,6 +1,6 @@
 <div alig<img src="https://i.postimg.cc/bwQNhr9c/1776241879426.png" width"100%" />🐺 𝐅𝐄𝐍𝐑𝐈𝐑-𝐗 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭
 
-⚡ Powerful WhatsApp Multi-Device Bot Using Baileys
+⚡ Powerful WhatsApp Multi-Device Bot Using shanali
 
 <br>👤 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐈𝐍𝐅𝐎
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/YOUTUBE-CHANNEL-red?style=for-the-badge&logo=youtube">
 </a><br><br>
 
-<a href="https://youtu.be/9RMwQ2mDXLE">
+<a href="https://www.youtube.com/@SHAN-KHAN-SK-MODS">
 <img src="https://img.shields.io/badge/🚀 DEPLOY%20BOT%20VIDEO-WATCH%20NOW-blue?style=for-the-badge">
 </a></div>
 ---
@@ -84,7 +84,7 @@ After it's give's you a otp go on WhatsApp Linked Devices.
 🧠 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘
 
 - NodeJS
-- Baileys WhatsApp API
+- shankhansk WhatsApp API
 - Axios
 - Cheerio
 - YT-Search
@@ -99,8 +99,8 @@ You are free to modify and use this project but credit must remain.
 
 ---
 
-<div align="center">🐺 𝐅𝐄𝐍𝐑𝐈𝐑-𝐗 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+<div align="center">🐺 shanali-𝐗 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
 
-Developed with ❤️ by Tayyab (Fenrir-X)
+Developed with ❤️ by Tayyab (shanali-X)
 
 </div>
