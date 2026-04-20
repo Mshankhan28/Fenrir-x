@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://i.postimg.cc/Vkzmq6B5/image-1770920187531.jpg" width="100%" />🐺 𝐅𝐄𝐍𝐑𝐈𝐑-𝐗 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭
+<img src="[![1776241879426.png](https://i.postimg.cc/bwQNhr9c/1776241879426.png)](https://postimg.cc/0zyqG84c)" width="100%" />🐺 𝐅𝐄𝐍𝐑𝐈𝐑-𝐗 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐁𝐨𝐭
 
 ⚡ Powerful WhatsApp Multi-Device Bot Using Baileys
 
 <br>👤 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐈𝐍𝐅𝐎
 
-**Name:** *"Tayyab"* <br>
-**User-Name:** *"Fenrir-X"*
+**Name:** *"shanali"* <br>
+**User-Name:** *"shankhan"*
 ---
 
-<br><a href="https://www.youtube.com/@fenrir.x.official">
+<br><a href="https://www.youtube.com/@SHAN-KHAN-SK-MODS">
 <img src="https://img.shields.io/badge/YOUTUBE-CHANNEL-red?style=for-the-badge&logo=youtube">
 </a><br><br>
 
