@@ -99,7 +99,7 @@ You are free to modify and use this project but credit must remain.
 
 ---
 
-<div align="center">🐺 shanali-𝐗 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
+<div align="center">🐺 shan.ali-𝐗 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
 
 Developed with ❤️ by Tayyab (shanali-X)
 
