@@ -40,13 +40,13 @@ pkg install nodejs
 
 📂 3. Clone Repository
 ```
-git clone https://github.com/shan-sk/shan-sk
+git clone https://github.com/FENRIR-X/Fenrir-x
 ```
 ---
 
 📁 4. Open Bot Folder
 ```
-cd shan-sk
+cd Fenrir-x
 ```
 ---
 
